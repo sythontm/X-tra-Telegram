@@ -1,6 +1,6 @@
 FROM sythontm/X-tra-Telegram:slim-buster
 
-RUN git clone https://github.com/sythontm/X-tra-Telegram.git /root/jmisgood
+RUN git clone https://github.com/sythontm/X-tra-Telegram.git /root/userbot
 
 WORKDIR /root/userbot
 
